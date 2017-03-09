@@ -7,6 +7,9 @@
     "npm": "3.x"
   },
   "main": "index.js",
+  "scripts": {
+    "test": "mocha"
+  },
   "repository": {
     "type": "git",
     "url": "git+ssh://git@github.com/learn-co-curriculum/listening-to-nodes.git"
